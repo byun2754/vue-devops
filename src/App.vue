@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 변준형 App" />
+  <HelloWorld msg="Welcome to 변준형 App." />
 </template>
 
 <script>
