@@ -33,6 +33,9 @@ jobs:
       - name : install dependencies
         run : npm i
       
+      - name : test unit 
+        run : npm run test:unit
+
       - name : Build page
         run : npm run build
         env : 
